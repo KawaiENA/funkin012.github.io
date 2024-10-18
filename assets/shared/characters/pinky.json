@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "fall guy idle dance"
+		},
+		{
+			"offsets": [
+				61,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "fall guy left"
+		},
+		{
+			"offsets": [
+				-50,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "fall guy down"
+		},
+		{
+			"offsets": [
+				-30,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "fall guy up"
+		},
+		{
+			"offsets": [
+				-130,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "fall guy right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pinky",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "pinky",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		101,
+		141
+	],
+	"camera_position": [
+		30,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,45 @@
+{
+	"storyName": "Media Friends - VAntaa, Goofy",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "varia",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"espoo",
+			"matias",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"femboy",
+			"nikita",
+			[
+				135,
+				146,
+				245
+			]
+		],
+		[
+			"fish",
+			"viivi",
+			[
+				47,
+				191,
+				191
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

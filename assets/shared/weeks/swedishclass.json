@@ -1,0 +1,27 @@
+{
+	"storyName": "Swedish hell - Juha LIndahl",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "break1",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"swedishmeatballs",
+			"juha",
+			[
+				20,
+				20,
+				20
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "swedishclass"
+}
